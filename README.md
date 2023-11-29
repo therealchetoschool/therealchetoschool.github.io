@@ -1,4 +1,5 @@
 # therealchetoschool.github.io
 Sean Simon PJ R. Agualada
-bleep borp I am robot kaboom kabam kaplow beep boop
-play geometry dash and beat theory of everything 2
+That was super silly trust me! :joy:
+	parry
+: pressing the block button right before a heavy attack, stunning the enemy for a set period of time.
