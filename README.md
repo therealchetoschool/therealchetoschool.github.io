@@ -1,2 +1,2 @@
 # therealchetoschool.github.io
-Sean Simon PJ R. Agualada test
+Sean testingtesting
