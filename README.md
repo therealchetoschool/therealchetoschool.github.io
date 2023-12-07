@@ -8,7 +8,7 @@ Tips and tricks for every weapon in the New Blood game. ULTRAKILL.
 
 
 ## MARKSMAN REVOLVER (NORMAL)
-: The Marksman Revolver's primary fire can be quite useful when used in conjunction with its coin-tossing ability. Tossing a coin and shooting it will cause a ricoshot, bouncing the shot off the coin and reflecting it toward the nearest enemy. This is capable of instantly killing or severely injuring most low-level enemies. In addition, hitting a chain of Splitshots allows you to quickly clear out a room of fodder enemies.
+ The Marksman Revolver's primary fire can be quite useful when used in conjunction with its coin-tossing ability. Tossing a coin and shooting it will cause a ricoshot, bouncing the shot off the coin and reflecting it toward the nearest enemy. This is capable of instantly killing or severely injuring most low-level enemies. In addition, hitting a chain of Splitshots allows you to quickly clear out a room of fodder enemies.
 
 This weapon is extraordinarily useful for taking out hard-to-hit targets such as Drones and Husks, with auto-aiming ricoshots and splitshots allowing for a fire-and-forget type of playstyle. Coins can be used in conjunction with other weapons as well, including the Piercer Revolver and its charge shot, the Alternate Revolver, the Electric Railcannon, and the Malicious Railcannon. Doing this has the potential to deal much more damage than the Marksman Revolver could ever do alone.
 
@@ -19,7 +19,7 @@ Coin Punching can also be utilized to rack up damage multipliers and look stylis
 
 
 ## SHARPSHOOTER REVOLVER (ALTERNATE)
-: The Sharpshooter's alternate fire has the ability to cause enemy projectiles to explode, damaging anything nearby and causing other projectiles to divert. With good timing, this can be utilized to eliminate groups of enemies as projectiles are near them, and can even quickly eliminate a Malicious Face with its own projectiles. The alt fire, in this regard, can be used as a longer ranged Parry with a cooldown. The Slab Sharpshooter is even better in this regard, although the player must be careful to put enough distance that they themselves are not caught in the blast.
+ The Sharpshooter's alternate fire has the ability to cause enemy projectiles to explode, damaging anything nearby and causing other projectiles to divert. With good timing, this can be utilized to eliminate groups of enemies as projectiles are near them, and can even quickly eliminate a Malicious Face with its own projectiles. The alt fire, in this regard, can be used as a longer ranged Parry with a cooldown. The Slab Sharpshooter is even better in this regard, although the player must be careful to put enough distance that they themselves are not caught in the blast.
 
 The piercing ricochet effect of the alternate fire can be used to hit one or more targets multiple times. This effect can be greatly utilized when the level geometry is in your favor, such as between a pair of parallel walls or inside tight corridors.
 
