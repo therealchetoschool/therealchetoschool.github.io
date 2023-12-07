@@ -24,6 +24,12 @@ Coin Punching can also be utilized to rack up damage multipliers and look stylis
 The piercing ricochet effect of the alternate fire can be used to hit one or more targets multiple times. This effect can be greatly utilized when the level geometry is in your favor, such as between a pair of parallel walls or inside tight corridors.
 
 
+## Revolver TIER LIST
+
+![image](https://github.com/therealchetoschool/therealchetoschool.github.io/assets/152353058/27994572-1cea-429b-8b00-28cfea12e9fd)
+
+
+
 
 [UNDER CONSTRUCTION] [SHOTGUNS COMING SOON]
 
