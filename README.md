@@ -24,4 +24,7 @@ Coin Punching can also be utilized to rack up damage multipliers and look stylis
 The piercing ricochet effect of the alternate fire can be used to hit one or more targets multiple times. This effect can be greatly utilized when the level geometry is in your favor, such as between a pair of parallel walls or inside tight corridors.
 
 
-![image](https://static.wikia.nocookie.net/ultrakill/images/9/9d/SharpshooterRevolver.png/revision/latest/scale-to-width-down/350?cb=20230427060059)
+![Uploading image.png…]()
+
+[UNDER CONSTRUCTION] [SHOTGUNS COMING SOON]
+
