@@ -4,7 +4,7 @@ Tips and tricks for every weapon in the New Blood game. ULTRAKILL.
 : The Piercer Revolver is a starting weapon that you can obtain in the very first level. The revolver's M1 will shoot a hitscan projectile that can pierce through enemies. When holding M2, You charge up your gun to release a blue hitscan which pierces through more enemies and gives MORE BLOOD (to heal). The best way to use the piercer revolver is by going near tanky enemies (such as the cerberus and the hideous mass) and releasing your m2 for a near full heal.
 
 
-(![image](https://github.com/therealchetoschool/therealchetoschool.github.io/assets/152353058/2294d018-d778-4ecd-983b-3858ddb72042)
+![image](https://github.com/therealchetoschool/therealchetoschool.github.io/assets/152353058/2294d018-d778-4ecd-983b-3858ddb72042)
 
 
 ## MARKSMAN REVOLVER (NORMAL)
@@ -15,7 +15,7 @@ This weapon is extraordinarily useful for taking out hard-to-hit targets such as
 Coin Punching can also be utilized to rack up damage multipliers and look stylish while doing so. It's not just a style option though, as certain strategies such as Deadcoining can allow for some of the highest damage outputs in the game.
 
 
-(![image](https://github.com/therealchetoschool/therealchetoschool.github.io/assets/152353058/3c3736fc-8876-4ca0-b832-a126a3c5e0dd)
+![image](https://github.com/therealchetoschool/therealchetoschool.github.io/assets/152353058/3c3736fc-8876-4ca0-b832-a126a3c5e0dd)
 
 
 ## SHARPSHOOTER REVOLVER (ALTERNATE)
@@ -24,4 +24,4 @@ Coin Punching can also be utilized to rack up damage multipliers and look stylis
 The piercing ricochet effect of the alternate fire can be used to hit one or more targets multiple times. This effect can be greatly utilized when the level geometry is in your favor, such as between a pair of parallel walls or inside tight corridors.
 
 
-![Uploading image.png…]()
+![image](https://static.wikia.nocookie.net/ultrakill/images/9/9d/SharpshooterRevolver.png/revision/latest/scale-to-width-down/350?cb=20230427060059)
