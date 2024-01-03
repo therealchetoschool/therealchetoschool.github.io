@@ -1,5 +1,20 @@
 # The Comprehensive Guide to ULTRAKILL Mechanics.
-Tips and tricks for every weapon in the New Blood game. ULTRAKILL.
+Tips and tricks for every weapon in the New Blood game. ULTRAKILL. (Time: #include<stdio.h> //Including the header files
+#include<time.h>
+#include<stdlib.h>
+void main() //Main Function
+{
+  time_t current_time;  //Variable of time_t type and it holds the calendar value
+   repeat:
+    system("clear");
+    printf("\t\t***********************\n");
+    printf("\t\t*   DIGITAL CLOCK     *\n");  //Some UI
+    printf("\t\t***********************\n\n");
+    current_time=time(NULL);  //Taking the pointer to the null before evaluating
+    printf("\t\t%s",ctime(&current_time));  //Taking the current time of the system by passing
+    system("sleep 0.5s"); //the address of the time_t variable into the function and dereferencing it
+    goto repeat;
+}
 ## PIERCER REVOLVER (ALTERNATE)
  The Piercer Revolver is a starting weapon that you can obtain in the very first level. The revolver's M1 will shoot a hitscan projectile that can pierce through enemies. When holding M2, You charge up your gun to release a blue hitscan which pierces through more enemies and gives MORE BLOOD (to heal). The best way to use the piercer revolver is by going near tanky enemies (such as the cerberus and the hideous mass) and releasing your m2 for a near full heal.
 
