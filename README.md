@@ -1,5 +1,6 @@
 # The Comprehensive Guide to ULTRAKILL Mechanics.
-Tips and tricks for every weapon in the New Blood game. ULTRAKILL. (Time: #include<stdio.h> //Including the header files
+Tips and tricks for every weapon in the New Blood game. ULTRAKILL. 
+(Time: #include<stdio.h> //Including the header files
 #include<time.h>
 #include<stdlib.h>
 void main() //Main Function
