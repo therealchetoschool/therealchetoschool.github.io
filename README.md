@@ -1,22 +1,18 @@
-# The Comprehensive Guide to ULTRAKILL Mechanics.
-Tips and tricks for every weapon in the New Blood game. ULTRAKILL. 
+# Nero's Devil Breakers
+A simple introduction to the famous Devil Breakers used by Nero. 
 
-## PIERCER REVOLVER (ALTERNATE)
- The Piercer Revolver is a starting weapon that you can obtain in the very first level. The revolver's M1 will shoot a hitscan projectile that can pierce through enemies. When holding M2, You charge up your gun to release a blue hitscan which pierces through more enemies and gives MORE BLOOD (to heal). The best way to use the piercer revolver is by going near tanky enemies (such as the cerberus and the hideous mass) and releasing your m2 for a near full heal.
-
-
-![image](https://github.com/therealchetoschool/therealchetoschool.github.io/assets/152353058/2294d018-d778-4ecd-983b-3858ddb72042)
+## Devil Breaker: OVERTURE
+ The first Devil Breaker built by Nico. A comparably orthodox weapon compared to other arms, damaging enemies with electric bursts. Its name is derived from this straightforward functionality. The first Devil Breaker available in the game, this arm is easy for starting players to use. Complete mission 1 to unlock this DeviL Breaker.
 
 
-## MARKSMAN REVOLVER (NORMAL)
- The Marksman Revolver's primary fire can be quite useful when used in conjunction with its coin-tossing ability. Tossing a coin and shooting it will cause a ricoshot, bouncing the shot off the coin and reflecting it toward the nearest enemy. This is capable of instantly killing or severely injuring most low-level enemies. In addition, hitting a chain of Splitshots allows you to quickly clear out a room of fodder enemies.
-
-This weapon is extraordinarily useful for taking out hard-to-hit targets such as Drones and Husks, with auto-aiming ricoshots and splitshots allowing for a fire-and-forget type of playstyle. Coins can be used in conjunction with other weapons as well, including the Piercer Revolver and its charge shot, the Alternate Revolver, the Electric Railcannon, and the Malicious Railcannon. Doing this has the potential to deal much more damage than the Marksman Revolver could ever do alone.
-
-Coin Punching can also be utilized to rack up damage multipliers and look stylish while doing so. It's not just a style option though, as certain strategies such as Deadcoining can allow for some of the highest damage outputs in the game.
+![image](![image](https://github.com/therealchetoschool/therealchetoschool.github.io/assets/152353058/c4462226-525e-460d-8f81-7d581c67a173)
 
 
-![image](https://github.com/therealchetoschool/therealchetoschool.github.io/assets/152353058/3c3736fc-8876-4ca0-b832-a126a3c5e0dd)
+## Devil Breaker: GERBERA
+ A Devil Breaker that launchers shockwaves from its petal-shaped complex reverberatory furnace. The recoil can be used for instantaneous movement, and converging the shockwaves makes it fire a high-output energy beam. Beautiful design belies tremendous firepower.
+
+
+![image](![image](https://github.com/therealchetoschool/therealchetoschool.github.io/assets/152353058/153ef57b-4856-41c4-96d7-6cbf76e1569f)
 
 
 ## SHARPSHOOTER REVOLVER (ALTERNATE)
